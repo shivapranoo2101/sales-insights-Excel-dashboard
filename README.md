@@ -9,7 +9,7 @@
 -Superstore Sales dataset (a widely-used public dataset for data analytics practice)
 
 ## Dashboard Preview
-![Dashboard Screenshot](Dasnboard-Screenshot.png)
+![Dashboard Screenshot](Dashboard-Screenshot.png.png)
 
 ## Tools & Skills Used
 - PivotTables & PivotCharts
