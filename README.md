@@ -1,12 +1,12 @@
 # sales-insights-Excel-dashboard
--An interactive Excel Sales Dashboard built using Pivot Tables, Pivot Charts, 
+- An interactive Excel Sales Dashboard built using Pivot Tables, Pivot Charts, 
  Slicers, and Excel formulas to analyze sales performance, revenue, profit, 
  customer segments, product categories, and regional trends.
 
--This was my first Excel Dashboard project.
+- This was my first Excel Dashboard project.
 
 ## Data Source
--Superstore Sales dataset (a widely-used public dataset for data analytics practice)
+- Superstore Sales dataset (a widely-used public dataset for data analytics practice)
 
 ## Dashboard Preview
 ![Dashboard Screenshot](Dashboard-Screenshot.png)
