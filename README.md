@@ -18,4 +18,3 @@ An interactive Excel Sales Dashboard built using Pivot Tables, Pivot Charts, Sli
   region, quarter, or category and explore the dashboard interactively. 
 ## Screenshot
 - I had given my screenshot of my Dashboard externally for easy view
-- Excel file.png
